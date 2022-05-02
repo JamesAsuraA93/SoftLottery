@@ -25,7 +25,6 @@
 <main>
   <h1>ยินดีต้อนรับเข้าสู่ SoftLottery</h1>
   <h2>วันนี้วันที่ {day} เดือน {month} ปี {year + 543}</h2>
-  {$slotDigit[$slotDigit.length - 1].six}
   <div class="group">
     <div class="left">
       <h1>
